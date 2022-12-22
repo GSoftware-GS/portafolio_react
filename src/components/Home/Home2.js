@@ -16,40 +16,28 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              PERMITANME <span className="purple"> PRESENTARME </span>
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Me enamoré de la programación y al menos he aprendido algo, creo… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Soy fluido en lenguajes como
               <i>
                 <b className="purple"> C++, Javascript and Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Mis áreas de interés son construir nuevas &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Tecnologías Web y Productos </b> 
+                y también en áreas relacionadas con el{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Diseño Grafico
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,9 +48,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>PUEDES ENCONTRARME EN MIS REDES SOCIALES</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Siéntete libre de <span className="purple">hablar </span>conmigo
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
