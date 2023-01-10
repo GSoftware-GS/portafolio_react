@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="Wazifa Web"
               description="Wazifa es una banda que sabe cómo hacer que el público se mueva. Su música abarca géneros como el funk, el reggae, el soul, el rock y el ska, y cuenta con miembros de todo el mundo."
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://wazifa.es/"
             />
           </Col>
 
@@ -34,8 +34,8 @@ function Projects() {
               isBlog={false}
               title="GSwebdeisgner"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://gswebdesigner.es"
+              
             />
           </Col>
 
@@ -45,7 +45,6 @@ function Projects() {
               isBlog={false}
               title="Github Personal"
               description="Github personal con algunos de mis proyectos y repositorios. Los lenguajes que utilizo en la mayoría de mis proyectos son JavaScript, React, Node, Python, Django, C++, C, Java, SQL, HTML, CSS, etc."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
