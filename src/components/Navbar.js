@@ -94,11 +94,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.soumya-jit.tech/"
+                href="https://gswebdesigner.es/"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blog
+                <ImBlog style={{ marginBottom: "2px" }} /> Web
               </Nav.Link>
             </Nav.Item>
 
